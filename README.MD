@@ -1,7 +1,7 @@
 # 1.运行环境和依赖
 - python2.7
 - selenium
-- chrome webdriver
+- chrome webdriver 需要适配chrome对应版本，安装方法自行查询
 
 # 2.窗口化运行
 - 使用
@@ -14,4 +14,5 @@
 - 后台运行，开始学习
 
 # 4.TODO
-- All Above 1.2.3
+
+- All Above 
